@@ -15,7 +15,7 @@ The static site lives in `docs/` and needs no build step. Its public pages are:
 
 ## Before App Store submission
 
-- Replace the visible `support@your-domain.example` placeholder in `docs/support.html` with a monitored email address. Apple requires the Support URL to lead to real contact information. The GitHub issue link is optional and should only be kept if users can access the repository.
+- Replace the visible `support@your-domain.example` placeholder in `docs/support.html` with a monitored email address. Apple requires the Support URL to lead to real contact information.
 - Review the public Privacy and Terms pages against the final app build and update the matching in-app screens if any data practices change.
 - Add the released App Store product URL to the marketing page when it exists. The current page accurately says the app is coming soon.
 
